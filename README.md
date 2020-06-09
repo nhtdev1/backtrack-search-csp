@@ -1,8 +1,8 @@
-# ac3-algorithm
+# Backtrack search 
 
-This is project resolving Sudoku problem using AC3 algorithm
+This is project resolving Sudoku problem using Backtrack search algorithm
 
-Github: https://github.com/thinhhoangnguyen/ac3-algorithm
+Github: https://github.com/thinhhoangnguyen/backtrack-search-csp
 
 # Running
 
@@ -28,7 +28,7 @@ The data in the txt file will be
 
 <img src = "https://i.imgur.com/bdLyK8k.png?1">
 
-- Step 3: Click Ac3 algorithm button to find solution
+- Step 3: Click Backtrack algorithm button to find solution
 
 <img src = "https://i.imgur.com/UocUk21.png?1">
 
